@@ -1,5 +1,4 @@
 import React from "react";
-import MapSearch from "./components/MyMapSearch";
 import MapF from "./components/vero";
 
 
