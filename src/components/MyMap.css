@@ -3,8 +3,9 @@ body {
   background-color: rgb(178, 210, 222);
 }
 .leaflet-container {
-  height: 1000px;
-  width: 1000px;
+  height: 700px;
+  
+
   background-color: lightblue;
 
 }

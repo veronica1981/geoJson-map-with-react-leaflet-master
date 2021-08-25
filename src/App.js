@@ -1,8 +1,10 @@
 import React from "react";
-import MyMap from "./components/MyMap";
+import MapSearch from "./components/MyMapSearch";
+import MapF from "./components/vero";
+
 
 function App() {
-  return <MyMap />;
+  return <MapF />;
 }
 
 export default App;
